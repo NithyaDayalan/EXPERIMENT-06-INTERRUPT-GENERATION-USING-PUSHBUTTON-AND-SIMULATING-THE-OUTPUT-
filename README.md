@@ -1,4 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+## Name : NITHYA D
+## Roll no : 212223240110
+## Date of experiment : 04.11.2024
 
 ### Aim :
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
